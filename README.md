@@ -113,4 +113,5 @@
 - https://github.com/MrSyee/pokemon_story_generator
 - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient
 - Attention Is All You Need
+- SeqGAN을 이용한 한국어 시 자동생성(http://www.koreascience.or.kr/article/CFKO201832073078975.pdf)
 
