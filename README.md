@@ -106,10 +106,11 @@
 
 
 ## 6. References
-- https://github.com/MrSyee/pokemon_story_generator
+
 - https://github.com/NLP-kr/tensorflow-ml-nlp-tf2
 - https://github.com/ZiJianZhao/SeqGAN-PyTorch
 - https://wikidocs.net/85470
+- https://github.com/MrSyee/pokemon_story_generator
 - SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient
 - Attention Is All You Need
 
